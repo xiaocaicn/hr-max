@@ -1,4 +1,4 @@
-# vue-admin-template
+# 基于vue-admin-template二次开发的人资中台系统
 
 English | [简体中文](./README-zh.md)
 
